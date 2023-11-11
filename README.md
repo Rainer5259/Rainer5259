@@ -53,4 +53,4 @@
 
 ##### 🚀 Contacts
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5575998622304&text&type=phone_number&app_absent=0)[![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&labelColor=1A1B26)](mailto:rainercordeirodev@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=1A1B26)](https://www.linkedin.com/in/rainer-cordeiro-dos-santos-silva-530b4822b/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5575998622304&text&type=phone_number&app_absent=0) [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&labelColor=1A1B26)](mailto:rainercordeirodev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=1A1B26)](https://www.linkedin.com/in/rainer-cordeiro-dos-santos-silva-530b4822b/)
