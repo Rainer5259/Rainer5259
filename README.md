@@ -1,12 +1,33 @@
-🌟
-
-##### Determinado a encontrar oportunidades empolgantes para criar aplicativos inovadores e impactantes em dispositivos móveis, utilizando minha experiência e conhecimento para aprimorar produtos existentes de maneira significativa.
-
 ![Rainer's GitHub stat](https://github-readme-stats.vercel.app/api?username=Rainer5259&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainer5259&layout=donut)](https://github.com/Rainer5259/github-readme-stats)
 
-##### Developer in Macchiato Labs
+# Badges de Tecnologias e Conceitos
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Authentication](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Realtime Database](https://img.shields.io/badge/Realtime_Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![API Rest](https://img.shields.io/badge/API_Rest-008080?style=for-the-badge)
+![Código Limpo](https://img.shields.io/badge/Código_Limpo-4CAF50?style=for-the-badge)
+
+**Determinado a encontrar oportunidades empolgantes para criar aplicativos inovadores e impactantes em dispositivos móveis, utilizando minha experiência e conhecimento para aprimorar produtos existentes de maneira significativa.**
+
+**Developer in Macchiato Labs**
 
 **🏋️‍♂️ Workout Now:**
 
