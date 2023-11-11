@@ -1,6 +1,8 @@
 | ![Rainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainer5259&show_icons=true&theme=tokyonight&hide_rank=true&&custom_title=Rainer%20Cordeiro%20GitHub&bg_color=1A1B26&text_color=FFFFFF&border_color=151515) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainer5259&layout=donut&bg_color=1A1B26&text_color=FFFFFF&border_color=151515)](https://github.com/Rainer5259/github-readme-stats) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+**💻 Skills**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -38,7 +40,8 @@
 - Implementação de funcionalidades e melhorias.
 - Colaboração na experiência do usuário com a equipe de design.
 
-##### Mobile e Web Development
+\
+**📱 Mobile e Web Development**
 
 **🍕 Pizzaria**
 
@@ -47,10 +50,6 @@
 - Implementação de funcionalidades, desde a UI até integração com APIs.
 - Integração com PostgreSQL usando Prisma para mapeamento de objetos e operações relacionais.
 
-##### Skills
+**🚀 Contacts**
 
-- 💻 Typescript, JavaScript, React Native, React, Redux, Redux-Saga, Next.JS, Express.JS, PostgreSQL, Prisma, SASS, Git, Jira, Figma, Firebase, API Rest, Código Limpo, Firebase Services (authentication, firestore, realtime).
-
-##### 🚀 Contacts
-
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5575998622304&text&type=phone_number&app_absent=0) [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&labelColor=1A1B26)](mailto:rainercordeirodev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=1A1B26)](https://www.linkedin.com/in/rainer-cordeiro-dos-santos-silva-530b4822b/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp&labelColor=25D366&logoColor=white)](https://wa.me/557598622304) [![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&labelColor=1A1B26)](mailto:rainercordeirodev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=1A1B26)](https://www.linkedin.com/in/rainer-cordeiro-dos-santos-silva-530b4822b/)
