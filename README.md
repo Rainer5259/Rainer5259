@@ -1,6 +1,6 @@
-![Rainer's GitHub stat](https://github-readme-stats.vercel.app/api?username=Rainer5259&show_icons=true&theme=tokyonight)
+![Rainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainer5259&show_icons=true&theme=tokyonight&hide_rank=true&bg_color=1A1B26&text_color=FFFFFF&border_color=151515)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainer5259&layout=donut)](https://github.com/Rainer5259/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainer5259&layout=donut&bg_color=1A1B26&text_color=FFFFFF&border_color=151515)](https://github.com/Rainer5259/github-readme-stats)
 
 # Badges de Tecnologias e Conceitos
 
