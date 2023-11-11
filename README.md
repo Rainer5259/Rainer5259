@@ -1,23 +1,28 @@
+🌟
 
-
-## 🌟 
 ##### Determinado a encontrar oportunidades empolgantes para criar aplicativos inovadores e impactantes em dispositivos móveis, utilizando minha experiência e conhecimento para aprimorar produtos existentes de maneira significativa.
+
+![Rainer's GitHub stat](https://github-readme-stats.vercel.app/api?username=Rainer5259&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainer5259&layout=donut)](https://github.com/Rainer5259/github-readme-stats)
 
 ##### Developer in Macchiato Labs
 
 **🏋️‍♂️ Workout Now:**
-  - Participação ativa na criação e manutenção da plataforma de treino personalizado.
-  - Tecnologias: React Native, Typescript, API Rest.
-  - Resolução de bugs, sugestões de aprimoramento e implementação de novas funcionalidades.
-  - Colaboração com a equipe de design para melhorias na experiência do usuário.
 
- **💸 Contrense:**
-  - Desenvolvimento e manutenção do aplicativo de controle de finanças.
-  - Tecnologias: React Native, Typescript.
-  - Implementação de funcionalidades e melhorias.
-  - Colaboração na experiência do usuário com a equipe de design.
+- Participação ativa na criação e manutenção da plataforma de treino personalizado.
+- Tecnologias: React Native, Typescript, API Rest.
+- Resolução de bugs, sugestões de aprimoramento e implementação de novas funcionalidades.
+- Colaboração com a equipe de design para melhorias na experiência do usuário.
 
-#####  Mobile e Web Development
+**💸 Contrense:**
+
+- Desenvolvimento e manutenção do aplicativo de controle de finanças.
+- Tecnologias: React Native, Typescript.
+- Implementação de funcionalidades e melhorias.
+- Colaboração na experiência do usuário com a equipe de design.
+
+##### Mobile e Web Development
 
 **🍕 Pizzaria**
 
@@ -27,7 +32,9 @@
 - Integração com PostgreSQL usando Prisma para mapeamento de objetos e operações relacionais.
 
 ##### Skills
+
 - 💻 Typescript, JavaScript, React Native, React, Redux, Redux-Saga, Next.JS, Express.JS, PostgreSQL, Prisma, SASS, Git, Jira, Figma, Firebase, API Rest, Código Limpo, Firebase Services (authentication, firestore, realtime).
 
-##### 🚀 Contacts 
+##### 🚀 Contacts
+
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5575998622304&text&type=phone_number&app_absent=0)
