@@ -1,8 +1,7 @@
-![Rainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainer5259&show_icons=true&theme=tokyonight&hide_rank=true&bg_color=1A1B26&text_color=FFFFFF&border_color=151515)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainer5259&layout=donut&bg_color=1A1B26&text_color=FFFFFF&border_color=151515)](https://github.com/Rainer5259/github-readme-stats)
-
 # Badges de Tecnologias e Conceitos
+
+| ![Rainer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainer5259&show_icons=true&theme=tokyonight&hide_rank=true&bg_color=1A1B26&text_color=FFFFFF&border_color=151515) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainer5259&layout=donut&bg_color=1A1B26&text_color=FFFFFF&border_color=151515)](https://github.com/Rainer5259/github-readme-stats) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,8 +23,6 @@
 ![Realtime Database](https://img.shields.io/badge/Realtime_Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![API Rest](https://img.shields.io/badge/API_Rest-008080?style=for-the-badge)
 ![Código Limpo](https://img.shields.io/badge/Código_Limpo-4CAF50?style=for-the-badge)
-
-**Determinado a encontrar oportunidades empolgantes para criar aplicativos inovadores e impactantes em dispositivos móveis, utilizando minha experiência e conhecimento para aprimorar produtos existentes de maneira significativa.**
 
 **Developer in Macchiato Labs**
 
