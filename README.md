@@ -5,13 +5,13 @@
 
 ##### Desenvolvedor Mobile na Macchiato Labs
 ##### Agosto 2023 - Presente
-- **🏋️‍♂️ [Workout Now](#workout-now):**
+**🏋️‍♂️ Workout Now:**
   - Participação ativa na criação e manutenção da plataforma de treino personalizado.
   - Tecnologias: React Native, Typescript, API Rest.
   - Resolução de bugs, sugestões de aprimoramento e implementação de novas funcionalidades.
   - Colaboração com a equipe de design para melhorias na experiência do usuário.
 
-- **💸 [Contrense](#contrense):**
+ **💸 Contrense:**
   - Desenvolvimento e manutenção do aplicativo de controle de finanças.
   - Tecnologias: React Native, Typescript.
   - Implementação de funcionalidades e melhorias.
